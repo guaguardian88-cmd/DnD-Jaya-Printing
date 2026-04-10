@@ -1,0 +1,13 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+
+ul {text-align: center;
+list-style-type: none;
+padding: 0%;
+margin:0%;
+}
