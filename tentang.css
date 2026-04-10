@@ -12,7 +12,5 @@ padding: 0%;
 margin:0%;
 }
 
-li {text-decoration: none;
-
-
-   }
+li a {text-decoration: none;
+     }
