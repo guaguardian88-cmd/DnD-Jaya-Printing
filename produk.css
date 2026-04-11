@@ -2,18 +2,16 @@
 
 h1 {
     text-align: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
 }
 
 ul {text-align: center;
 list-style-type: none;
 padding: 0%;
 margin:0%;
-}
+font-weight: 300;
+   }
 
 li a {text-decoration: none;
-     }
-
-body {background-color: blue;
      }
