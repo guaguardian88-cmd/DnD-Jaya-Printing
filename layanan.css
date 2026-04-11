@@ -10,6 +10,7 @@ ul {text-align: center;
 list-style-type: none;
 padding: 0%;
 margin:0%;
+font-weight: 300;
    }
 
 li a {text-decoration: none;
