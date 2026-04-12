@@ -2,7 +2,13 @@
 
 h1 {
     text-align: left;
-    font-size: 900;
+}
+    
+.libre-baskerville-<uniquifier> {
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 
