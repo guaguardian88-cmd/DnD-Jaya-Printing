@@ -1,9 +1,10 @@
 /* Place your CSS styles in this file */
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 900;
+    font-size: 600;
+    background-color: green;
 }
 
 ul {text-align: center;
@@ -11,6 +12,7 @@ list-style-type: none;
 padding: 0%;
 margin:0%;
 font-weight: 300;
+color: white;
    }
 
 li a {text-decoration: none;
